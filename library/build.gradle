@@ -36,5 +36,5 @@ dependencies {
     api 'androidx.camera:camera-core:1.0.0-alpha03'
     api 'androidx.camera:camera-camera2:1.0.0-alpha03'
 
-    api 'com.google.zxing:core:3.4.0'
+    api 'com.google.zxing:core:3.3.3'
 }
